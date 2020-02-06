@@ -25,7 +25,7 @@
 # from future_builtins import ascii, filter, hex, map, oct, zip
 
 # seed value for random number generators to obtain reproducible results
-RANDOM_SEED = 1
+RANDOM_SEED = 5
 
 # import base packages into the namespace for this program
 import numpy as np
